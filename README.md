@@ -14,7 +14,7 @@ AI Engineer focused on Computer Vision, Multimodal AI, Edge AI Deployment and Ro
 ---
 
 # 2）ASR
-
+[whisper-mnn](https://github.com/pgf20160610/whisper-mnn)-基于 Whisper + MNN 的端侧实时 ASR 工程，支持 C++ 推理、KV cache 解码优化、single-pass 实时字幕预览和性能日志分析。
 
 
 ---
