@@ -7,7 +7,8 @@ AI Engineer focused on Computer Vision, Multimodal AI, Edge AI Deployment and Ro
 ---
 
 # 1）OCR
-
+[PPOCR5.0](https://github.com/pgf20160610/ppocrv5_deploy_pipeline)-
+构建 PP-OCR 系列模型的端侧部署流程，支持 Paddle 模型下载、ONNX 导出、MNN 转换、C++ 推理与结果可视化（onnx/mnn），适用于 OCR 工程化落地与轻量化部署展示。
 
 
 ---
