@@ -10,6 +10,7 @@ AI Engineer focused on Computer Vision, Multimodal AI, Edge AI Deployment and Ro
 [PPOCR5.0](https://github.com/pgf20160610/ppocrv5_deploy_pipeline)-
 构建 PP-OCR 系列模型的端侧部署流程，支持 Paddle 模型下载、ONNX 导出、MNN 转换、C++ 推理与结果可视化（onnx/mnn），适用于 OCR 工程化落地与轻量化部署展示。
 
+[ocr识别不包含字体检测-crnn_ctc_ocr](https://github.com/pgf20160610/crnn_ctc_ocr)-基于 PyTorch 自训练 CRNN + CTC OCR 识别模型，支持训练评估、PyTorch 推理、ONNX 导出验证，以及 C++ ONNXRuntime/MNN 端侧部署示例。
 
 ---
 
