@@ -50,7 +50,8 @@ AI Engineer focused on Computer Vision, Multimodal AI, Edge AI Deployment and Ro
 稍后更新
 
 # 9）3D目标检测
-稍后更新
+[3D点云目标检测-POINTPILLARS](https://github.com/pgf20160610/PointPillars_Deploy_Python)
+- 面向 KITTI 3D 目标检测的 PointPillars 部署工程，支持 PyTorch checkpoint 拆分导出 ONNX/MNN、ONNXRuntime/MNN 推理、BEV/相机可视化与结果对齐诊断。
 
 # 10) 旋转目标检测
 稍后更新
