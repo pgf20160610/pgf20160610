@@ -53,6 +53,10 @@ AI Engineer focused on Computer Vision, Multimodal AI, Edge AI Deployment and Ro
 [3D点云目标检测-POINTPILLARS](https://github.com/pgf20160610/PointPillars_Deploy_Python)
 - 面向 KITTI 3D 目标检测的 PointPillars 部署工程，支持 PyTorch checkpoint 拆分导出 ONNX/MNN、ONNXRuntime/MNN 推理、BEV/相机可视化与结果对齐诊断。
 
+[3D点云目标检测-CenterPoint](https://github.com/pgf20160610/CenterPoint-onnx-mnn)
+- 该项目是一个面向自动驾驶场景的轻量化CenterPoint部署框架，通过 ONNX Runtime 和 MNN 实现跨平台高效推理，并提供完整的模型转换、推理、可视化及工程部署方案。
+
+
 # 10) 旋转目标检测
 稍后更新
 
