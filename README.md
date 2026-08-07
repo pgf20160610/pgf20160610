@@ -1,86 +1,36 @@
 # Hi, I'm Guofeng Pan 👋
 
-AI Engineer focused on Computer Vision, Multimodal AI, Edge AI Deployment and Robotics.
+AI Engineer focused on **Computer Vision · Multimodal AI · Edge AI Deployment · 3D Perception · Robotics**.
 
-关键词：AI图像算法工程师、OCR、ASR、点云、VLM、BEV、目标检测、目标跟踪、Segment Anything、3D目标检测、旋转目标检测、人脸检测、关键点检测、车道线/路面分割、深度估计、车牌识别。
+主要关注：目标检测与关键点、OCR/ASR、点云与 BEV、多模态 VLM/VLA、ROS2/多传感器标定，以及 PyTorch → ONNX → MNN / TensorRT / RKNN / QNN 的 C++ 端侧部署链路。
 
----
-
-# 1）OCR
-[PPOCR5.0](https://github.com/pgf20160610/ppocrv5_deploy_pipeline)-
-构建 PP-OCR 系列模型的端侧部署流程，支持 Paddle 模型下载、ONNX 导出、MNN 转换、C++ 推理与结果可视化（onnx/mnn），适用于 OCR 工程化落地与轻量化部署展示。
-
-[ocr识别不包含字体检测-crnn_ctc_ocr](https://github.com/pgf20160610/crnn_ctc_ocr)-基于 PyTorch 自训练 CRNN + CTC OCR 识别模型，支持训练评估、PyTorch 推理、ONNX/MNN 导出验证，以及 C++ ONNXRuntime/MNN 端侧部署示例。
+[![Portfolio](https://img.shields.io/badge/Portfolio-PGF.AI-0ea5e9?style=flat-square)](https://pgf20160610.github.io/pgf-ai-portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-pgf20160610-181717?style=flat-square&logo=github)](https://github.com/pgf20160610)
 
 ---
 
-# 2）ASR
-[whisper-mnn](https://github.com/pgf20160610/whisper-mnn)-基于 Whisper + MNN 的端侧实时 ASR 工程，支持 C++ 推理、KV cache 解码优化、single-pass 实时字幕预览和性能日志分析。
+# Research & Projects
 
+该区域由 `.github/workflows/update-profile.yml` 定时自动更新，无需人工新增项目条目。
 
----
+<!-- AUTO-PROJECTS:START -->
+> 首次 push 后，在 GitHub Actions 中运行 **Update profile projects**，这里会自动生成所有公开项目并按研究方向分类。
+<!-- AUTO-PROJECTS:END -->
 
-# 3）点云
-
-稍后更新
-
----
-
-# 4）VLM
-
-稍后更新
-
----
-
-# 5）BEV
-
-稍后更新
-
----
-
-# 6）目标检测
-
-稍后更新
-
-# 7）目标跟踪
-
-稍后更新
-
-# 8）Segment Anything
-稍后更新
-
-# 9）3D目标检测
-[3D点云目标检测-POINTPILLARS](https://github.com/pgf20160610/PointPillars_Deploy_Python)
-- 面向 KITTI 3D 目标检测的 PointPillars 部署工程，支持 PyTorch checkpoint 拆分导出 ONNX/MNN、ONNXRuntime/MNN 推理、BEV/相机可视化与结果对齐诊断。
-
-[3D点云目标检测-CenterPoint](https://github.com/pgf20160610/CenterPoint-onnx-mnn)
-- 该项目是一个面向自动驾驶场景的轻量化CenterPoint部署框架，通过 ONNX Runtime 和 MNN 实现跨平台高效推理，并提供完整的模型转换、推理、可视化及工程部署方案。
-
-
-# 10) 旋转目标检测
-稍后更新
-
-# 11) 人脸检测
-稍后更新
-
-# 12) 关键点检测
-稍后更新
-
-# 13) 车道线/路面分割
-稍后更新
-# 14) 深度估计
-稍后更新
-# 15) 车牌识别
-稍后更新
 ---
 
 # Featured Tech Stack
 
-`C++` `Python` `OpenCV` `ONNXRuntime` `MNN` `TensorRT` `RKNN` `QNN` `YOLO` `VLM` `OCR` `ASR` `ROS2` `Jetson Orin` `RK3588`
+`C++` `Python` `OpenCV` `PyTorch` `ONNXRuntime` `MNN` `TensorRT` `RKNN` `QNN` `YOLO` `VLM` `OCR` `ASR` `PCL` `ROS2` `Jetson Orin` `RK3588`
 
 ---
 
-# Contact
+# Auto Sync
 
-- GitHub: https://github.com/yourname
-- Location: Shenzhen / Singapore
+- 数据源：GitHub Public REST API
+- 自动过滤：Fork、Archived、Profile 仓库、`pgf-ai-portfolio`
+- 自动分类依据：Repository Name + Description + Topics + Language
+- 自动更新：每 6 小时，同时支持 Actions 手动触发
+- 生成脚本：`update_profile.py`
+
+> 建议为每个仓库维护准确的 **Description** 和 **Topics**，自动分类会更稳定。
