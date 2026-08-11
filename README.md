@@ -6,9 +6,10 @@
 
 ### 边缘 AI 部署
 
-- **[yololiteSeg_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololiteSeg_deploy_onnx_mnn_rknn)** · `Other` — AI engineering project.
-- **[yololitePose_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololitePose_deploy_onnx_mnn_rknn)** · `C++` — description: 轻量级 YOLOv8/v9/v10/v11/v12/YOLO26 关键点检测 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN 和 YAML 配置。
-- **[yololite_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololite_deploy_onnx_mnn_rknn)** · `C++` — description: 轻量级 YOLO 多版本(支持 YOLOv5、v7、v8、v9、v10、v11、v12 和 v26) C++ 检测部署框架，支持 ONNXRuntime、MNN、RKNN 和 YAML 配置。
+- **[yololiteObb_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololiteObb_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLO 旋转目标检测 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN、ProbIoU NMS 和 YAML 配置。
+- **[yololiteSeg_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololiteSeg_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLO 实例分割 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN 和 YAML 配置。
+- **[yololitePose_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololitePose_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLOv8/v9/v10/v11/v12/YOLO26 关键点检测 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN 和 YAML 配置。
+- **[yololite_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololite_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLO 多版本 C++ 检测部署框架，支持 ONNXRuntime、MNN、RKNN 和 YAML 配置。
 - **[yolov8_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yolov8_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLOv8 C++ 检测部署工程，支持 ONNXRuntime、MNN 与 Rockchip RKNN Runtime。
 - **[PointPillars_Deploy_Python](https://github.com/pgf20160610/PointPillars_Deploy_Python)** · `Python` — 面向 KITTI 3D 目标检测的 PointPillars 部署工程，支持 PyTorch checkpoint 拆分导出 ONNX/MNN、ONNXRuntime/MNN 推理、BEV/相机可视化与结果对齐诊断。
 - **[CenterPoint-onnx-mnn](https://github.com/pgf20160610/CenterPoint-onnx-mnn)** · `Python` — 该项目是一个面向自动驾驶场景的轻量化CenterPoint部署框架，通过 ONNX Runtime 和 MNN 实现跨平台高效推理，并提供完整的模型转换、推理、可视化及工程部署方案。
