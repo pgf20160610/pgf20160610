@@ -4,6 +4,10 @@
 
 ## 研究方向
 
+### 其他 AI / 工程项目
+
+- **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Other` — AI engineering project.
+
 ### 边缘 AI 部署
 
 - **[yololiteObb_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololiteObb_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLO 旋转目标检测 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN、ProbIoU NMS 和 YAML 配置。
