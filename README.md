@@ -4,9 +4,9 @@
 
 ## 研究方向
 
-### 其他 AI / 工程项目
+### 机器人 / ROS2 / 标定
 
-- **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Other` — AI engineering project.
+- **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Python` — nuScenes 到 ROS 2 的只读离线验证、rosbag2 录制与 RViz2 回放工作区。
 
 ### 边缘 AI 部署
 
