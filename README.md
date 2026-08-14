@@ -6,7 +6,7 @@
 
 ### 机器人 / ROS2 / 标定
 
-- **[multi_sensor_calibration](https://github.com/pgf20160610/multi_sensor_calibration)** · `Other` — AI engineering project.
+- **[multi_sensor_calibration](https://github.com/pgf20160610/multi_sensor_calibration)** · `C++` — ROS 2 Humble 多传感器外参管理、验证、nuScenes 粗标定与 RViz2 人工精调模块。主要针对视觉、雷达感知项目。
 - **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Python` — nuScenes 到 ROS 2 的只读离线验证、rosbag2 录制与 RViz2 回放工作区。
 
 ### 边缘 AI 部署
