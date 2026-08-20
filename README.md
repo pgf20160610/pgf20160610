@@ -4,12 +4,6 @@
 
 ## 研究方向
 
-### 机器人 / ROS2 / 标定
-
-- **[multi-sensor-pointcloud-platform](https://github.com/pgf20160610/multi-sensor-pointcloud-platform)** · `C++` — AI engineering project.
-- **[multi_sensor_calibration](https://github.com/pgf20160610/multi_sensor_calibration)** · `C++` — ROS 2 Humble 多传感器外参管理、验证、nuScenes 粗标定与 RViz2 人工精调模块。主要针对视觉、雷达感知项目。
-- **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Python` — nuScenes 到 ROS 2 的只读离线验证、rosbag2 录制与 RViz2 回放工作区。
-
 ### 边缘 AI 部署
 
 - **[yololiteObb_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololiteObb_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLO 旋转目标检测 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN、ProbIoU NMS 和 YAML 配置。
@@ -21,6 +15,12 @@
 - **[CenterPoint-onnx-mnn](https://github.com/pgf20160610/CenterPoint-onnx-mnn)** · `Python` — 该项目是一个面向自动驾驶场景的轻量化CenterPoint部署框架，通过 ONNX Runtime 和 MNN 实现跨平台高效推理，并提供完整的模型转换、推理、可视化及工程部署方案。
 - **[whisper-mnn](https://github.com/pgf20160610/whisper-mnn)** · `C++` — mnn
 - **[ppocrv5_deploy_pipeline](https://github.com/pgf20160610/ppocrv5_deploy_pipeline)** · `C++` — paddlepaddle ocr v5.0模型部署,官方公开模型自动下载转换、基于c++的onnx/mnn推理、基于python的onnx推理及shape验证，ocr识别结果可视化。
+
+### 机器人 / ROS2 / 标定
+
+- **[multi-sensor-pointcloud-platform](https://github.com/pgf20160610/multi-sensor-pointcloud-platform)** · `C++` — AI engineering project.
+- **[multi_sensor_calibration](https://github.com/pgf20160610/multi_sensor_calibration)** · `C++` — ROS 2 Humble 多传感器外参管理、验证、nuScenes 粗标定与 RViz2 人工精调模块。主要针对视觉、雷达感知项目。
+- **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Python` — nuScenes 到 ROS 2 的只读离线验证、rosbag2 录制与 RViz2 回放工作区。
 
 ### 3D 感知与 BEV
 
