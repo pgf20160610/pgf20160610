@@ -6,7 +6,7 @@
 
 ### 边缘 AI 部署
 
-- **[SAMLabeler-MNN](https://github.com/pgf20160610/SAMLabeler-MNN)** · `Other` — AI engineering project.
+- **[SAMLabeler-MNN](https://github.com/pgf20160610/SAMLabeler-MNN)** · `C++` — AI engineering project.
 - **[yololiteObb_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololiteObb_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLO 旋转目标检测 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN、ProbIoU NMS 和 YAML 配置。
 - **[yololiteSeg_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololiteSeg_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLO 实例分割 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN 和 YAML 配置。
 - **[yololitePose_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololitePose_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLOv8/v9/v10/v11/v12/YOLO26 关键点检测 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN 和 YAML 配置。
