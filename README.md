@@ -4,10 +4,6 @@
 
 ## 研究方向
 
-### 2D 视觉 / 检测 / 姿态
-
-- **[SAMLabeler-MNN](https://github.com/pgf20160610/SAMLabeler-MNN)** · `C++` — 使用 MobileSAM + MNN + Qt 的轻量级语义分割与实例分割交互标注工具。
-
 ### 机器人 / ROS2 / 标定
 
 - **[multi-sensor-pointcloud-platform](https://github.com/pgf20160610/multi-sensor-pointcloud-platform)** · `C++` — ROS 2 Humble 多传感器点云平台，用于把 LiDAR、Radar、Camera、IMU 等输入统一到标准 ROS 2 Topic/TF/CameraInfo/PointCloud2 合约，并提供基础点云融合、语义/雷达关联、RViz2 可视化、调试导出、mock 全链路验收，以及 nuScenes mini 到 rosbag2 的离线转换工具。
@@ -25,6 +21,10 @@
 - **[CenterPoint-onnx-mnn](https://github.com/pgf20160610/CenterPoint-onnx-mnn)** · `Python` — 该项目是一个面向自动驾驶场景的轻量化CenterPoint部署框架，通过 ONNX Runtime 和 MNN 实现跨平台高效推理，并提供完整的模型转换、推理、可视化及工程部署方案。
 - **[whisper-mnn](https://github.com/pgf20160610/whisper-mnn)** · `C++` — mnn
 - **[ppocrv5_deploy_pipeline](https://github.com/pgf20160610/ppocrv5_deploy_pipeline)** · `C++` — paddlepaddle ocr v5.0模型部署,官方公开模型自动下载转换、基于c++的onnx/mnn推理、基于python的onnx推理及shape验证，ocr识别结果可视化。
+
+### 2D 视觉 / 检测 / 姿态
+
+- **[SAMLabeler-MNN](https://github.com/pgf20160610/SAMLabeler-MNN)** · `C++` — 使用 MobileSAM + MNN + Qt 的轻量级语义分割与实例分割交互标注工具。
 
 ### 3D 感知与 BEV
 
