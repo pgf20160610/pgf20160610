@@ -4,12 +4,6 @@
 
 ## 研究方向
 
-### 机器人 / ROS2 / 标定
-
-- **[multi-sensor-pointcloud-platform](https://github.com/pgf20160610/multi-sensor-pointcloud-platform)** · `C++` — ROS 2 Humble 多传感器点云平台，用于把 LiDAR、Radar、Camera、IMU 等输入统一到标准 ROS 2 Topic/TF/CameraInfo/PointCloud2 合约，并提供基础点云融合、语义/雷达关联、RViz2 可视化、调试导出、mock 全链路验收，以及 nuScenes mini 到 rosbag2 的离线转换工具。
-- **[multi_sensor_calibration](https://github.com/pgf20160610/multi_sensor_calibration)** · `C++` — ROS 2 Humble 多传感器外参管理、验证、nuScenes 粗标定与 RViz2 人工精调模块。主要针对视觉、雷达感知项目。
-- **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Python` — nuScenes 到 ROS 2 的只读离线验证、rosbag2 录制与 RViz2 回放工作区。
-
 ### 边缘 AI 部署
 
 - **[yololiteObb_deploy_onnx_mnn_rknn](https://github.com/pgf20160610/yololiteObb_deploy_onnx_mnn_rknn)** · `C++` — 轻量级 YOLO 旋转目标检测 C++ 部署框架，支持 ONNXRuntime、MNN、RKNN、ProbIoU NMS 和 YAML 配置。
@@ -25,6 +19,12 @@
 ### 2D 视觉 / 检测 / 姿态
 
 - **[SAMLabeler-MNN](https://github.com/pgf20160610/SAMLabeler-MNN)** · `C++` — 使用 MobileSAM + MNN + Qt 的轻量级语义分割与实例分割交互标注工具。
+
+### 机器人 / ROS2 / 标定
+
+- **[multi-sensor-pointcloud-platform](https://github.com/pgf20160610/multi-sensor-pointcloud-platform)** · `C++` — ROS 2 Humble 多传感器点云平台，用于把 LiDAR、Radar、Camera、IMU 等输入统一到标准 ROS 2 Topic/TF/CameraInfo/PointCloud2 合约，并提供基础点云融合、语义/雷达关联、RViz2 可视化、调试导出、mock 全链路验收，以及 nuScenes mini 到 rosbag2 的离线转换工具。
+- **[multi_sensor_calibration](https://github.com/pgf20160610/multi_sensor_calibration)** · `C++` — ROS 2 Humble 多传感器外参管理、验证、nuScenes 粗标定与 RViz2 人工精调模块。主要针对视觉、雷达感知项目。
+- **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Python` — nuScenes 到 ROS 2 的只读离线验证、rosbag2 录制与 RViz2 回放工作区。
 
 ### 3D 感知与 BEV
 
