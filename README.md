@@ -4,6 +4,10 @@
 
 ## 研究方向
 
+### 2D 视觉 / 检测 / 姿态
+
+- **[SAMLabeler-MNN](https://github.com/pgf20160610/SAMLabeler-MNN)** · `C++` — 使用 MobileSAM + MNN + Qt 的轻量级语义分割与实例分割交互标注工具。
+
 ### 边缘 AI 部署
 
 - **[lerobot_act_trt](https://github.com/pgf20160610/lerobot_act_trt)** · `C++` — LeRobot ACT 策略的 ONNX 导出、TensorRT FP16 加速与 Jetson ROS2 C++ 部署工具包。
@@ -22,10 +26,6 @@
 - **[multi-sensor-pointcloud-platform](https://github.com/pgf20160610/multi-sensor-pointcloud-platform)** · `C++` — ROS 2 Humble 多传感器点云平台，用于把 LiDAR、Radar、Camera、IMU 等输入统一到标准 ROS 2 Topic/TF/CameraInfo/PointCloud2 合约，并提供基础点云融合、语义/雷达关联、RViz2 可视化、调试导出、mock 全链路验收，以及 nuScenes mini 到 rosbag2 的离线转换工具。
 - **[multi_sensor_calibration](https://github.com/pgf20160610/multi_sensor_calibration)** · `C++` — ROS 2 Humble 多传感器外参管理、验证、nuScenes 粗标定与 RViz2 人工精调模块。主要针对视觉、雷达感知项目。
 - **[nuscenes_validation](https://github.com/pgf20160610/nuscenes_validation)** · `Python` — nuScenes 到 ROS 2 的只读离线验证、rosbag2 录制与 RViz2 回放工作区。
-
-### 2D 视觉 / 检测 / 姿态
-
-- **[SAMLabeler-MNN](https://github.com/pgf20160610/SAMLabeler-MNN)** · `C++` — 使用 MobileSAM + MNN + Qt 的轻量级语义分割与实例分割交互标注工具。
 
 ### 3D 感知与 BEV
 
